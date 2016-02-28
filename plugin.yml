@@ -1,0 +1,16 @@
+name: GeoIP
+main: yuu528\GeoIP
+author: yuu528
+version: 1.0r
+api: [1.13.0]
+load: STARTUP
+description: GeoIP
+commands:
+ geoip:
+  desciption: main command
+  usage: /geoip <OnlinePlayer|IP>
+  permission: geoip.cmd
+permissions:
+ geoip.cmd:
+  description: main command accept
+  default: op
