@@ -24,3 +24,4 @@ GeoIP は PocketMine-MP 及び PocketMine-MP派生アプリケーションで動
 
 ##ToDo
  - [ ] 英語版作成  
+ - [ ] PHP APIの使用
